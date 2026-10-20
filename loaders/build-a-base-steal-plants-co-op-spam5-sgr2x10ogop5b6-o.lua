@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/build-a-base-steal-plants-co-op-spam5-sgr2x10ogop5b6.lua"))()
