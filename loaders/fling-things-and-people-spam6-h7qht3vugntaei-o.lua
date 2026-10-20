@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/fling-things-and-people-spam6-h7qht3vugntaei.lua"))()
