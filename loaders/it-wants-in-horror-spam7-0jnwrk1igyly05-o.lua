@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/it-wants-in-horror-spam7-0jnwrk1igyly05.lua"))()
