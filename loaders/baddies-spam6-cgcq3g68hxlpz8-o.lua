@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/baddies-spam6-cgcq3g68hxlpz8.lua"))()
