@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/build-a-phone-empire-spam3-2kmzuv22ig13il.lua"))()
