@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/grow-a-garden-spam5-d6eol9j3ic6zod.lua"))()
