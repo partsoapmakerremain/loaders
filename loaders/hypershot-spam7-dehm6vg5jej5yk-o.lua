@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/hypershot-spam7-dehm6vg5jej5yk.lua"))()
