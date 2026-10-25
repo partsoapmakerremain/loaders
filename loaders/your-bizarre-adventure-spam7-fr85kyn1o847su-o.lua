@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/your-bizarre-adventure-spam7-fr85kyn1o847su.lua"))()
